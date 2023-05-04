@@ -1,3 +1,3 @@
-# BAIS-Week6-HW
+# BAIS Digital Product Management Final Portfolio😎🎓
 My final project portfolio webpage for the Digital Product Management course at the University of Iowa
 In this class, I had the opportunity to apply my knowledge of web development and create a personal website portfolio. I used GitHub and Visual Studio Code to create various HTML files, including "index.html," "resume.html," "gallery.html," and "privacy.html," to name a few. Through this project, I learned about the importance of committing changes and using commit messages to keep my code organized. I also gained valuable experience in creating wireframes, designing user interfaces, and applying web development best practices. I also used google analytics and campaigns to see live interactions with my website. I am excited to continue growing my knowledge of website development in the future!
